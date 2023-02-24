@@ -3,9 +3,9 @@ using namespace std;
 
 int main(){
 
-    cout<<setprecision(1)<<0.7938<<endl;
+    cout<<setprecision(2)<<0.7938<<endl;
 
-
-    cout<<(double)9.7980;
+    double f = 9.7980;
+    cout<<f;
     return 0;
 }

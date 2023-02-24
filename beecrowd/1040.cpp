@@ -11,7 +11,7 @@ int main(){
     double n = ((n1*2)+(n2*3)+(n3*4)+n4) / 10;
 
 
-    cout<<setprecision(1)<<"Media: "<<n<<endl;
+    cout<<setprecision(2)<<"Media: "<<n<<endl;
 
     if(n >= 7.0){
         cout<<"Aluno reprovado."<<endl;
